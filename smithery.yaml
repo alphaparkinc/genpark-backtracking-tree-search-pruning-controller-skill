@@ -1,0 +1,6 @@
+name: genpark-backtracking-tree-search-pruning-controller-skill
+version: 1.0.0
+description: MCTS and Tree of Thoughts backtracking controller scoring intermediate reasoning states and pruning low-value branches
+command: python
+args:
+  - mcp_server.py
