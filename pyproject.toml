@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-backtracking-tree-search-pruning-controller-skill"
+version = "1.0.0"
+description = "MCTS and Tree of Thoughts backtracking controller scoring intermediate reasoning states and pruning low-value branches"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
